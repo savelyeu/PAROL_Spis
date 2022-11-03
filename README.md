@@ -1,0 +1,2 @@
+# PAROL_Spis
+Passwords
